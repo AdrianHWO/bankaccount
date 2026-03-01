@@ -23,4 +23,4 @@ The system enforces a `MIN_BALANCE` rule. For example, if you have 500 in your a
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/bankaccount.git](https://github.com/YOUR_USERNAME/bankaccount.git)
+   git clone [https://github.com/AdrinaHWO/bankaccount.git](https://github.com/AdrianHWO/bankaccount.git)
